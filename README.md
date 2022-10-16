@@ -12,9 +12,10 @@ You can click the Preview link to take a look at your changes.
 
 [![@canggih_wr's Holopin board](https://holopin.me/canggih_wr)](https://holopin.io/@canggih_wr)
 
+<!---
 <p align="center"> 
   All time visitors count<br>
   <img src="https://profile-counter.glitch.me/canggihwr/count.svg" />
 </p>
-
+--->
 
