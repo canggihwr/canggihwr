@@ -11,17 +11,18 @@ You can click the Preview link to take a look at your changes.
 <p style="width: 100%;">
 <a href="https://github.com/canggihwr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=canggihwr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=canggihwr&layout=compact&langs_count=6&theme=tokyonight&hide=html"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=canggihwr&layout=compact&langs_count=9&theme=tokyonight&hide=html"/>
 </a>
 </p>
 
 [![@canggih_wr's Holopin board](https://holopin.me/canggih_wr)](https://holopin.io/@canggih_wr)
 
+<!---
 <p align="center"> 
   All time visitors count<br>
   <img src="https://profile-counter.glitch.me/canggihwr/count.svg" />
 </p>
 
-<!---
+
 [![Canggih Wahyu Rinaldi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=canggihwr&theme=rogue)](https://github.com/canggihwr)
 --->
