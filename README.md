@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 <p style="width: 100%;">
 <a href="https://github.com/canggihwr">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=canggihwr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=canggihwr&layout=compact&langs_count=6&theme=tokyonight&hide=html"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=canggihwr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=canggihwr&layout=compact&langs_count=6&theme=tokyonight&hide=html"/>
 </a>
 </p>
 
